@@ -53,7 +53,14 @@ mat-card-actions{
   mat-card img{
     height: 300px;
     width: 300px;
+
   }
+  mat-card-content p{
+    display: flex;
+    justify-content: center;
+
+ }
+
 
 
 
